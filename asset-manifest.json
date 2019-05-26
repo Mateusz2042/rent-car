@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rent-car/static/css/main.ec2acb19.chunk.css",
-    "main.js": "/rent-car/static/js/main.ae06cb93.chunk.js",
-    "main.js.map": "/rent-car/static/js/main.ae06cb93.chunk.js.map",
+    "main.js": "/rent-car/static/js/main.8d270383.chunk.js",
+    "main.js.map": "/rent-car/static/js/main.8d270383.chunk.js.map",
     "runtime~main.js": "/rent-car/static/js/runtime~main.19b7b3d6.js",
     "runtime~main.js.map": "/rent-car/static/js/runtime~main.19b7b3d6.js.map",
     "static/css/2.c7bb94bc.chunk.css": "/rent-car/static/css/2.c7bb94bc.chunk.css",
     "static/js/2.c476acca.chunk.js": "/rent-car/static/js/2.c476acca.chunk.js",
     "static/js/2.c476acca.chunk.js.map": "/rent-car/static/js/2.c476acca.chunk.js.map",
     "index.html": "/rent-car/index.html",
-    "precache-manifest.938d4fdc720d46d029be871837fe25d2.js": "/rent-car/precache-manifest.938d4fdc720d46d029be871837fe25d2.js",
+    "precache-manifest.4b2d11f1031c0b3897bc42cead9e1e1e.js": "/rent-car/precache-manifest.4b2d11f1031c0b3897bc42cead9e1e1e.js",
     "service-worker.js": "/rent-car/service-worker.js",
     "static/css/2.c7bb94bc.chunk.css.map": "/rent-car/static/css/2.c7bb94bc.chunk.css.map",
     "static/css/main.ec2acb19.chunk.css.map": "/rent-car/static/css/main.ec2acb19.chunk.css.map",
